@@ -1,0 +1,74 @@
+﻿daeh-LiYanFei-ErJinGong.xml
+， deleted: 48 <-- It's a duoban, confirmed by 《京剧曲谱集成·第六集》第276页, and recording 368b64ec-8dc6-4751-99ef-b0ae815dca4d
+
+daeh-ZiNaRi-ErJinGong.xml
+47: 1 --> +1, one note octave higher, for melodic coherence
+。 deleted: 144 <-- It's a duoban, confirmed by 《京剧曲谱集成·第六集》第276页, and recording 368b64ec-8dc6-4751-99ef-b0ae815dca4d
+
+daeh-ZiNaRi-ZhuangYuanMei-2.xml
+， > 、: 114, 121
+
+daxp-DangRiLi-SuoLinNang.xml
+， deleted: 75, confirmed by 《京剧曲谱集成·第五集》第190页
+， > 、: 114, 115, 116, 117 <-- It's a duoban, confirmed by 《京剧曲谱集成·第五集》第193页
+
+daxp-FeiShiWo-TaoHuaCun.xml
+， > 、: 35, 38, 111
+
+lseh-XinZhongYou-WenZhaoGuan.xml
+。 > ， at 88 to keep a 哭头 together
+。 from 201 to 202 to keep a （呃） in its line
+。 from 238 to 241 to keep a 哭头 together
+
+lseh-YiLunMing-WenZhaoGuan-1.xml
+！ changed position at 89 to keep （哪） in its line
+。 changed position at 109 to keep （哪） in its line
+， deleted from 246 and ！ changed position from 254 to 255 to keep a 哭头 together
+。 moved from 365 to 366 to keep a （哪） in its line
+， deleted from 402 and ！ changed position in 406 to keep a 哭头 together
+。 changed position at 437 to keep a （哪） in its line
+
+lseh-ZiNaRi-HongYangDong.xml
+。 > 、 at 73 in order to keep an extract dou with the previous line
+
+lsxp-CiShiJian-HuaiHeYing-1
+， deleted at 62 to keep a （啊） in its line
+
+lsxp-HenPingWang-WenZhaoGuan.xml
+， changed position at 13 to keep a （兀） in its line
+
+lsxp-JianMaSu-ZhanMaSu.xml
+， not existing in the original added at 30 to divide 上下句
+
+lsxp-TingTaYan-ZhuoFangCao-1.xml
+。 changed position at 107 to keep （呀呃） in its line
+
+lsxp-WoBenShi-KongChengJi-1.xml
+， not existing in the original added at 127 to divide 上下句
+（） added to the padding words in 13， 37, 45， 60， 71， 90， 117， 118， 119， 122， 126， 159
+
+lsxp-WoZhuYe-ZhuiHanXin.xml
+， > 、 at 109 to join an extra dou to its line
+
+lsxp-ZheYiFeng-DingJunShan.xml
+， added at 48, 64 for line division
+
+lsxp-ZouYingLong-DaYanSong.xml
+， deleted at 89 to keep together a duoban
+
+sdxp-DangNianHan-SanJiZhang.xml
+， > 、 at 134, 136, 141, 144 to keep lines together
+
+sdxp-SuLongWei-WuJiaPo.xml
+， > 、 at 135, 278, 280, 2882, 284, 286 to keep a duoban together
+， > 、 at 233 and 246 to keep lines together
+， not existing in the original added to 320 to separate 上下句
+
+One Octave Higher
+daeh-LiYanFei-ErJinGong
+daeh-NaRiFeng-YuanXiaoMi
+daeh-ZaoBuXing-HeHouMaDian
+daeh-ZiNaRi-ZhuangYuanMei-1
+daeh-ZiNaRi-ZhuangYuanMei-2
+daeh-ZuoChunGui-XiShi
+dldeh-ShouBiPo-ChunQiuPei
